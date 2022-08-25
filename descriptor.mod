@@ -14,4 +14,3 @@ dependencies={
 	"Millennium Dawn: A Modern Day Mod"
 }
 supported_version="1.11.*"
-path="C:/Users/Anton/Documents/Paradox Interactive/Hearts of Iron IV/mod/MDRIoU"
