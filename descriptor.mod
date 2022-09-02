@@ -13,4 +13,5 @@ name="Millennium Dawn: Russian Invasion of Ukraine Beta"
 dependencies={
 	"Millennium Dawn: A Modern Day Mod"
 }
+picture="thumbnail.png"
 supported_version="1.11.*"
